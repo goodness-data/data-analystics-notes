@@ -48,3 +48,75 @@ Data analysis is the process of inspecting, cleaning, and organizing data to fin
 **Example:**  
 - Data analysis → Calculating the average daily sales  
 - Data analytics → Using those insights to decide on promotions or inventory management
+
+
+# Day 2 – Types of Data
+
+## Introduction
+Not all data is the same. In data analysis, understanding the type of data you are working with is very important because it determines how you analyze and interpret it.
+
+---
+
+## 1. Qualitative Data (Categorical Data)
+
+Qualitative data describes qualities or characteristics. It is non-numerical and cannot be measured with numbers.
+
+Examples:
+- Gender (Male/Female)
+- Eye color
+- Country
+- Marital status
+- Product category
+
+This type of data is grouped into categories.
+
+---
+
+## 2. Quantitative Data (Numerical Data)
+
+Quantitative data consists of numbers and can be measured or counted.
+
+Examples:
+- Age
+- Height
+- Salary
+- Number of students
+- Sales revenue
+
+Quantitative data can be analyzed using mathematical operations.
+
+---
+
+## Types of Quantitative Data
+
+### a) Discrete Data
+Discrete data can be counted. It usually consists of whole numbers.
+
+Examples:
+- Number of students in a class
+- Number of cars in a parking lot
+- Number of products sold
+
+You cannot have 2.5 students — it must be a whole number.
+
+---
+
+### b) Continuous Data
+Continuous data can be measured and can include decimals.
+
+Examples:
+- Height (5.7 ft)
+- Weight (60.5 kg)
+- Temperature (36.6°C)
+
+Continuous data can take any value within a range.
+
+## Why This Matters in Data Analysis
+
+Understanding data types helps a data analyst:
+- Choose the correct analysis method
+- Create appropriate charts
+- Apply correct statistical techniques
+- Make accurate conclusions
+
+Correct data understanding leads to better insights.
